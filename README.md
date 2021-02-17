@@ -31,4 +31,3 @@ pip install -r requirements.txt
 ```python
 python main.py
 ```
-# pdf_analysis
